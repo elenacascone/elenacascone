@@ -14,7 +14,7 @@
 
 ## Chi sono
 
-Laureata in Fisica (103/110, tesi su entanglement e teletrasporto quantistico), attualmente laureanda magistrale in Data Science (media 29/30). Porto nella data science lo stesso approccio analitico e rigoroso maturato nella formazione fisica: definire ipotesi verificabili, misurare l'incertezza, non fermarsi al primo risultato plausibile.
+Laureata in Fisica (con votazione 103/110) con una tesi su L'entanglement e teletrasporto quantistico, attualmente laureanda magistrale in Data Science (media 29.6/30). Porto nella data science lo stesso approccio analitico e rigoroso maturato nella formazione fisica: definire ipotesi verificabili, misurare l'incertezza, non fermarsi al primo risultato plausibile.
 
 Attualmente svolgo un tirocinio di ricerca presso il **CNR**, su un progetto di agricoltura di precisione: analisi di dati da sensori IoT (variabili meteo e della pianta) per l'ottimizzazione dell'irrigazione di un vigneto, con sviluppo di un processo di automazione basato su Machine Learning.
 
