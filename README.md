@@ -2,7 +2,7 @@
 
 # Elena Cascone
 
-**Junior Data Scientist** — Fisica ✕ Data Science
+**Junior Data Scientist** — Laureata in Fisica | Laureanda Magistrale in Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3864?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-cascone-18ec/)
 [![Email](https://img.shields.io/badge/Email-1F3864?style=flat-square&logo=maildotru&logoColor=white)](mailto:elecascone@hotmail.com)
