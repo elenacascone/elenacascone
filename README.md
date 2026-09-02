@@ -2,7 +2,7 @@
 
 # Elena Cascone
 
-**Junior Data Scientist** — Laureata in Fisica | Laureanda Magistrale in Data Science
+**Junior Data Scientist** — Laureata in Fisica | Laureanda in Data Science
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3864?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elena-cascone-18ec/)
 [![Email](https://img.shields.io/badge/Email-1F3864?style=flat-square&logo=maildotru&logoColor=white)](mailto:elecascone@hotmail.com)
@@ -14,7 +14,7 @@
 
 ## Chi sono
 
-Laureata in Fisica (con votazione 103/110) con una tesi su L'entanglement e teletrasporto quantistico, attualmente laureanda magistrale in Data Science (media 29.6/30). Porto nella data science lo stesso approccio analitico e rigoroso maturato nella formazione fisica: definire ipotesi verificabili, misurare l'incertezza, non fermarsi al primo risultato plausibile.
+Laureata in Fisica e laureanda magistrale in Data Science presso l'Università degli Studi di Napoli Federico II. Porto nella data science lo stesso approccio analitico e rigoroso maturato nella formazione fisica: definire ipotesi verificabili, misurare l'incertezza, non fermarsi al primo risultato plausibile.
 
 Attualmente svolgo un tirocinio di ricerca presso il **CNR**, su un progetto di agricoltura di precisione: analisi di dati da sensori IoT (variabili meteo e della pianta) per l'ottimizzazione dell'irrigazione di un vigneto, con sviluppo di un processo di automazione basato su Machine Learning.
 
@@ -57,18 +57,26 @@ Risultato: SARIMA (walk-forward), MAE 0.42 sul test set finale.
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,git,github,jupyter,vscode&theme=light&perline=9)
+![Python](https://img.shields.io/badge/Python-1F3864?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-1F3864?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F3864?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-1F3864?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1F3864?style=flat-square&logo=numpy&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-1F3864?style=flat-square&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1F3864?style=flat-square&logo=tensorflow&logoColor=white)
+![Spark](https://img.shields.io/badge/PySpark%20%2F%20Spark-1F3864?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-1F3864?style=flat-square&logo=apachehadoop&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-1F3864?style=flat-square&logo=apachehive&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-1F3864?style=flat-square&logo=apachekafka&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-1F3864?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1F3864?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1F3864?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
 <br>
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=elenacascone&show_icons=true&hide_border=true&theme=default&title_color=1F3864&icon_color=2E5395&text_color=333333" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenacascone&layout=compact&hide_border=true&theme=default&title_color=1F3864&text_color=333333" height="165"/>
-
-</div>
 
 <br>
 
