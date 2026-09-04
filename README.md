@@ -1,6 +1,5 @@
 <div align="center">
-
-# Elena Cascone
+<img src="https://readme-typing-svg.demolab.com/?font=DM+Serif+Display&size=40&duration=2500&pause=100000&repeat=false&color=1F3864&center=true&vCenter=true&width=500&height=60&lines=Elena+Cascone" alt="Elena Cascone" /><br/> <img src="https://readme-typing-svg.demolab.com/?font=DM+Serif+Display&size=18&duration=2000&pause=100000&repeat=false&color=2E5395&center=true&vCenter=true&width=500&height=35&lines=Junior+Data+Scientist" alt="Junior Data Scientist" />
 
 **Junior Data Scientist** — Laureata in Fisica | Laureanda in Data Science
 
